@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 425213e4b6dc48b5a4873f91f7c9d535, type: 3}
+  m_Name: Numbers
+  m_EditorClassIdentifier: 
+  cellData:
+  - Sprite: {fileID: 1422184923334757970, guid: 2d5a22aae0cda144c87aeeff5b7ed4e5, type: 3}
+    Name: 1
+    SpriteRotationClockwise: 0
+  - Sprite: {fileID: 1808195818850983521, guid: 2d5a22aae0cda144c87aeeff5b7ed4e5, type: 3}
+    Name: 2
+    SpriteRotationClockwise: 0
+  - Sprite: {fileID: -7900951133411543555, guid: 2d5a22aae0cda144c87aeeff5b7ed4e5, type: 3}
+    Name: 3
+    SpriteRotationClockwise: 0
+  - Sprite: {fileID: 2267071060405275165, guid: 2d5a22aae0cda144c87aeeff5b7ed4e5, type: 3}
+    Name: 4
+    SpriteRotationClockwise: 0
+  - Sprite: {fileID: -7398325283844340781, guid: 2d5a22aae0cda144c87aeeff5b7ed4e5, type: 3}
+    Name: 5
+    SpriteRotationClockwise: 0
+  - Sprite: {fileID: -7015292045520539579, guid: 2d5a22aae0cda144c87aeeff5b7ed4e5, type: 3}
+    Name: 6
+    SpriteRotationClockwise: 0
+  - Sprite: {fileID: -675344402919758444, guid: 2d5a22aae0cda144c87aeeff5b7ed4e5, type: 3}
+    Name: 7
+    SpriteRotationClockwise: 90
+  - Sprite: {fileID: 3547489320769246608, guid: 2d5a22aae0cda144c87aeeff5b7ed4e5, type: 3}
+    Name: 8
+    SpriteRotationClockwise: 90
+  - Sprite: {fileID: -2231039105344118876, guid: 0b4a1f4491cf1764e946860fe4dab598, type: 3}
+    Name: 9
+    SpriteRotationClockwise: 0
+  - Sprite: {fileID: 2780738961713589372, guid: 2f43b6d3ea6e37a428728537a2979a73, type: 3}
+    Name: 10
+    SpriteRotationClockwise: 0
